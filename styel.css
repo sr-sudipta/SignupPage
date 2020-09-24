@@ -1,0 +1,82 @@
+body
+{
+		margin:0;
+		padding:0;
+		font-family:sans-serief;
+		
+}
+.sign-up-form
+{
+	width: 500px;
+	box-shadow: 0 0 3px rgba(0,0,0,0,0.3):
+	background: #fff;
+	padding: 20px;
+	margin: 8% auto 0;
+	text-align: center;
+}
+.sign-up-form h1
+{
+	color: black;
+	margin-bottom: 30px;
+	
+}
+.input-box
+{
+	
+	padding: 10px;
+	margin: 10px 0;
+	width: 100%;
+	border: 1 px solid #999;
+	outline: none;
+}
+button
+{
+	color: #fff;
+	width: none;;
+	padding: 10px;
+	
+	font-size: 15px;
+	margin: none;
+	border:none;
+	outline:none;
+	cursor:pointer;
+}
+.sign-btn
+{
+	width: 100%;
+	margin: 10px 0;
+	background-color: #008CBA;
+	
+}
+.google-btn
+{
+	width:35%;
+	margin: 5px 0;
+	background-color: white;
+	color: Black;
+	Border: 2px solid Blue;
+}
+.fb-btn{
+	
+	
+	margin: 5px 0;
+	background-color: White;
+	color:Black;
+	Border: 2px solid Blue;
+}
+a{
+	
+	text-decoration:none;
+}
+Hr
+{
+	margin-top:20px;
+	width:100%;
+}
+.or
+{
+	background: #fff;
+	width: 30px;
+	margin:-19px auto 10px;
+}
+
